@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&background=000000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Clean+Coder+%7C+Tech+Lover;React+%2F+Next.js+%2F+Node.js;MongoDB+%2F+Supabase+%2F+PostgreSQL;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FAFAFA&background=0F0F0F&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Clean+Coder+%7C+Tech+Lover;React+%2F+Next.js+%2F+Node.js;MongoDB+%2F+Supabase+%2F+PostgreSQL;Always+Learning+Something+New!" />
 </p>
+
 
 
 ---
