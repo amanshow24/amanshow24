@@ -1,34 +1,42 @@
-<p align="center">
-  <img src="https://github.com/amanshow24/amanshow24/blob/main/Hi.gif?raw=true" width="40" alt="Hi GIF" />
-  <strong><span style="font-size: 24px;">&nbsp;Hi there, I'm Aman Kumar Show 👨‍💻</span></strong>
-</p>
+<h1 align="center">Hi there! Good to see you! 😊</h1>
 
-<p align="center" style="font-size:14px;">🚀 Full Stack Developer | Tech Explorer | Coffee Lover ☕</p>
+<p align="center">
+  <strong>Aman Kumar Show</strong>  
+</p>
+<p align="center">
+  🚀 Full Stack Developer • Tech Explorer • Coffee Lover ☕
+</p>
 
 ---
 
-### 🧠 A Little Bit More About Me
+## 🧠 A Little Bit More About Me
 
-Welcome to my corner of the digital universe! I'm Aman — a passionate full-stack web developer who loves crafting clean, efficient, and beautiful web experiences.  
-When I’m not coding, I’m probably sipping coffee ☕, geeking out on tech news, or building side projects to learn something new.
+Welcome to my corner of the digital universe!  
+I'm **Aman** — a passionate full-stack web developer who enjoys building clean, efficient, and beautiful web experiences.
+
+When I’m not coding, I’m probably sipping coffee ☕, geeking out on tech trends, or working on side projects to explore something new.
 
 > “Code. Coffee. Repeat.” ☕💻
 
 ---
 
-### 💻 My Technology Stack
+## 💻 My Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,python,c,mongodb,mysql,postgres,html,css,tailwind,bootstrap,docker,git,github,vscode,vercel,figma" width="85%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,python,c,mongodb,mysql,postgres,html,css,tailwind,bootstrap,docker,git,github,vscode,vercel,figma" width="90%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanshow24&show_icons=true&theme=tokyonight&hide_border=true" width="44%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanshow24&theme=tokyonight&hide_border=true" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanshow24&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanshow24&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshow24&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
@@ -37,7 +45,7 @@ When I’m not coding, I’m probably sipping coffee ☕, geeking out on tech ne
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-kumar-show-a5589b290" target="_blank">
