@@ -50,17 +50,3 @@ Currently exploring **Docker**, **FastAPI**, and everything in between.
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
-
-### 📊 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanshow24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanshow24&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanshow24&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
