@@ -13,11 +13,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🌍 I'm **Aman Kumar Show**, but you can just call me **Aman**
+- 🌍 Hi there👋 I am **Aman** a **3rd** year Computer Science and Engineering student from **Kolkata**.
 - 🧠 Passionate about full-stack web development, clean UI, and backend architecture
 - ⚡ I love building projects that solve real problems and look good doing it
 - ☕ Addicted to **coffee**, code, and a bit of chaos
-- 🎯 Favorite quote: *"Stay hungry, stay foolish" – Steve Jobs*
 - 🚀 Always exploring new tech: currently digging into **AI, Docker, and FastAPI**
 
 ---
