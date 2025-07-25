@@ -10,8 +10,18 @@ When I’m not coding, I’m probably sipping coffee ☕, geeking out on tech tr
 
 ## 💻 My Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,python,c,mongodb,mysql,postgres,html,css,tailwind,bootstrap,docker,git,github,vscode,vercel,figma,vite,linux,gcp,firebase,render" width="95%" />
+<p>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&perline=8" /><br>
+  
+  <!-- Libraries & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap&perline=8" /><br>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8" /><br>
+  
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,figma,vite,linux,gcp,firebase,render" />
 </p>
 
 
