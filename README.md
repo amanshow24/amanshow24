@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi there, I'm Aman Kumar Show</h1>
+<p align="left">
+  <img src="https://github.com/amanshow24/amanshow24/blob/main/HI.gif?raw=true" width="60" alt="Hi GIF">
+</p>
+ Hi there, I'm Aman Kumar Show</h1>
 
 <h4 align="center">🚀 Full Stack Developer | Tech Explorer | Coffee Lover ☕</h4>
 
