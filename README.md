@@ -1,6 +1,4 @@
-<h1 align="center">Hi there! Good to see you! 😊</h1>
-
----
+<h1>Hi there! Good to see you! 😊</h1>
 
 ## 🧠 A Little Bit More About Me
 
@@ -11,7 +9,6 @@ When I’m not coding, I’m probably sipping coffee ☕, geeking out on tech tr
 
 > “Code. Coffee. Repeat.” ☕💻
 
----
 
 ## 💻 My Technology Stack
 
