@@ -1,12 +1,5 @@
 <h1 align="center">Hi there! Good to see you! 😊</h1>
 
-<p align="center">
-  <strong>Aman Kumar Show</strong>  
-</p>
-<p align="center">
-  🚀 Full Stack Developer • Tech Explorer • Coffee Lover ☕
-</p>
-
 ---
 
 ## 🧠 A Little Bit More About Me
