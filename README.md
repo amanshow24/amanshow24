@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/amanshow24/amanshow24/blob/main/HI.gif?raw=true" width="60" alt="Hi GIF">
+  <img src="https://github.com/amanshow24/amanshow24/blob/main/Hi.gif?raw=true" width="60" alt="Hi GIF">
 </p>
  Hi there, I'm Aman Kumar Show</h1>
 
