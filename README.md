@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amanshow24/amanshow24/blob/main/Hi.gif?raw=true" width="80" alt="Hi GIF">
-<strong><h1 align="center">Hi there, I'm Aman Kumar Show 👨‍💻</h1></strong>
+  <img src="https://github.com/amanshow24/amanshow24/blob/main/Hi.gif?raw=true" width="80" alt="Hi GIF"><strong><h1 align="center">Hi there, I'm Aman Kumar Show 👨‍💻</h1></strong>
 </p>
 
 <p align="center" style="font-size:14px;">🚀 Full Stack Developer | Tech Explorer | Coffee Lover ☕</p>
