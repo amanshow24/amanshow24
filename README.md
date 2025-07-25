@@ -21,7 +21,7 @@ When I’m not coding, I’m probably sipping coffee ☕, geeking out on tech tr
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8" /><br>
   
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,figma,vite,linux,gcp,firebase,render" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,figma,supabase,vite,linux,gcp,firebase,render&perline=12" />
 </p>
 
 
