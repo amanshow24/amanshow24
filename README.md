@@ -1,21 +1,60 @@
-<h1>Hi there! Good to see you! 😊</h1>
+Hi there! 👋
 
-Welcome to my corner of the digital universe!  
-I'm **Aman** — a passionate full-stack web developer who enjoys building clean, efficient, and beautiful web experiences.
+Welcome to my corner of the digital universe!
 
-When I’m not coding, I’m probably sipping coffee ☕, geeking out on tech trends, or working on side projects to explore something new.
+I'm Aman — a passionate Full-Stack Web Developer who enjoys building clean, efficient, and visually appealing web experiences.
 
-> “Code. Coffee. Repeat.” ☕💻
+When I’m not coding, I’m probably sipping coffee ☕, exploring tech trends, or working on side projects to learn something new.
 
+«💬 "Code. Coffee. Repeat."»
 
-## 💻 My Technology Stack
+---
+
+🚀 About Me
+
+- 🎓 CSE Undergraduate
+- 💻 Focused on Full-Stack Development
+- 📚 Currently improving DSA & problem-solving
+- 🌱 Always learning new technologies
+
+---
+
+💻 Tech Stack
+
+👨‍💻 Languages
 
 <p>
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&perline=8" /><br>
-  
-  <!-- Libraries & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&perline=6" />
+</p>⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb&perline=6" />
+</p>🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=6" />
+</p>---
+
+📈 What I'm Working On
+
+- 🔨 Building full-stack projects
+- 🌐 Creating a personal portfolio website
+- 🧠 Strengthening DSA for placements
+
+---
+
+📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>---
+
+⭐ Feel free to explore my repositories and connect with me!,express,fastapi,tailwind,bootstrap&perline=8" /><br>
   
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8" /><br>
