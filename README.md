@@ -1,95 +1,118 @@
-Hi there! 👋
+<h1 align="center">Hey, I'm Aman 👋</h1>
 
-Welcome to my corner of the digital universe!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+%26+CS+Fundamentals;Open+to+Internships+%26+Jobs" alt="Typing SVG" />
+</p>
 
-I'm Aman — a passionate Full-Stack Web Developer who enjoys building clean, efficient, and visually appealing web experiences.
+<p align="center">
+  B.Tech CSE · RCCIIT Kolkata · Batch 2023–2027
+</p>
 
-When I’m not coding, I’m probably sipping coffee ☕, exploring tech trends, or working on side projects to learn something new.
-
-«💬 "Code. Coffee. Repeat."»
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanshow24&style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-brightgreen?style=flat-square" />
+</p>
 
 ---
 
-🚀 About Me
+## About me
 
-- 🎓 CSE Undergraduate
-- 💻 Focused on Full-Stack Development
-- 📚 Currently improving DSA & problem-solving
-- 🌱 Always learning new technologies
+I'm a 3rd-year CS student from Kolkata who builds full-stack web apps — not just CRUD demos,
+but things with real auth flows, payment integration, WebSockets, and live APIs.
+I care about writing code that actually works in production, not just on localhost.
 
----
+Currently targeting **Summer 2026 internships** and on/off-campus placements (service-based or product-based).
 
-💻 Tech Stack
-
-👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&perline=6" />
-</p>⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb&perline=6" />
-</p>🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=6" />
-</p>---
-
-📈 What I'm Working On
-
-- 🔨 Building full-stack projects
-- 🌐 Creating a personal portfolio website
-- 🧠 Strengthening DSA for placements
+- 🎓 B.Tech CSE @ RCC Institute of Information Technology (2023–2027)
+- 💻 Full-stack developer with hands-on project experience
+- 📚 Solid foundation in DSA and CS core subjects
+- 📍 Kolkata, India
 
 ---
 
-📫 Connect With Me
+## Featured Projects
 
+### [LiveTrack](https://live-track-nu.vercel.app/) — Real-time Location Sharing
+> Join or create a room, share live GPS updates, see active participants in real time.
+> Uses DigiPin encoding for Indian locations and a mobile-first UI built for phones.
+
+**Stack:** React · Vite · Socket.IO · Node.js · Express · MongoDB · MapLibre GL
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://live-track-nu.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanshow24/Live-Track)
+
+---
+
+### [Zipply](https://zipply.onrender.com/) — URL Shortener & QR Platform
+> Full-stack platform with JWT auth, email OTP via Brevo, custom short links,
+> expiry dates, redirect analytics, QR generation, Razorpay payments,
+> and subscription plan enforcement with daily usage limits.
+
+**Stack:** Node.js · Express · MongoDB · Razorpay · Brevo API · JWT · EJS
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=render&logoColor=white)](https://zipply.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanshow24/zipply)
+
+---
+
+## Tech Stack
+
+**Languages**
 <p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>---
-
-⭐ Feel free to explore my repositories and connect with me!,express,fastapi,tailwind,bootstrap&perline=8" /><br>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8" /><br>
-  
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,figma,supabase,vite,linux,gcp,firebase,render&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </p>
 
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
 
-## 🌐 Connect with Me
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,linux" />
+</p>
+
+---
+
+## Currently Working On
+
+- Strengthening DSA and problem-solving skills
+- Revisiting CS core subjects: OOP, OS, DBMS, and Computer Networks
+- Actively seeking internship and placement opportunities
+
+---
+
+## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-kumar-show-a5589b290" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aman-kumar-show-a5589b290">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amanshow9800@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/amanshow2005" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:amanshow44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanshow24&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
-</p>
-
-
-## 📈 GitHub Stats
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanshow24&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanshow24&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanshow24&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshow24&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=amanshow24&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanshow24&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
