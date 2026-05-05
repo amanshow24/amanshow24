@@ -55,6 +55,18 @@ Currently targeting **Summer 2026 internships** and on/off-campus placements (se
 
 ---
 
+### [LatencyLens](https://latencylens.onrender.com/) — REST API Performance Tester
+> Lightweight tool to benchmark any HTTP/HTTPS endpoint.
+> Run load tests (1–100 requests), get detailed latency metrics (P50, P95, P99),
+> and export results as JSON or CSV — all in a clean, no-framework UI.
+
+**Stack:** Node.js · Express · Axios · Vanilla JS · Docker · Node `perf_hooks`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=render&logoColor=white)](https://latencylens.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Source-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanshow24/LatencyLens)
+
+---
+
 ## Tech Stack
 
 **Languages**
