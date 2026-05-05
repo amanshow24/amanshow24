@@ -79,7 +79,7 @@ Currently targeting **Summer 2026 internships** and on/off-campus placements (se
 
 **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,linux,postman,canva,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,linux,postman" />
 </p>
 
 ---
