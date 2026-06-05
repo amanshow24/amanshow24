@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header" width="100%"/>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanshow24&style=flat-square&color=0e75b6" alt="Profile Views"/>
 </p>
@@ -13,14 +11,12 @@ education:
   [
     "B.Tech CSE @ RCCIIT — 2027",
   ]
-
 fields_of_interest:
   [
     "Full-Stack Web Dev",
     "DevOps",
     "Open Source",
   ]
-
 currently_learning: ["System Design", "DSA"]
 ```
 
@@ -64,5 +60,3 @@ currently_learning: ["System Design", "DSA"]
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amanshow24&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer" width="100%"/>
